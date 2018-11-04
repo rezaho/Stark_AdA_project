@@ -14,7 +14,7 @@ The idea is to offer textual analysis and graphical content to present the resul
 
 - How can we use the graph visualization to demonstrate the bias in the news sources?
 
-- What conclusions can we draw from the media coverage among different countries?
+- What conclusions can we draw about one country by studying their media coverage?
 
 
 
@@ -24,7 +24,9 @@ All articles and citations comes with multiple indexes (confidence, tone, Goldst
 
 
 # A list of internal milestones up until project milestone 2
-Add here a sketch of your planning for the next project milestone.
+- Data cleaning: deal with empty cells, drop irrelevant columns, find interesting metrics.
+- Find events with worldwide coverage to check the project hypothesis.
+- Extract new features by applying various analysis methods on the data.
 
 # Questions for TAa
-Add here some questions you have for us, in general or project-specific.
+On which period of time was the data extracted? Was it only a day, a month or a year?
