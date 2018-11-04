@@ -1,4 +1,4 @@
-# Title
+# Media bias in international news coverage
 
 # Abstract
 With the development of new technologies, people have access to tremendous amounts of sources to keep up with the events of the world. This increase of sources made it nearly impossible for people to get a sense of how biased the media are in transferring the facts and events. With an increasing number of sources, there is increasing risks of misinformation. 
