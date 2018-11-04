@@ -6,7 +6,17 @@ The goal of our project is to raise awareness of the potential bias of news sour
 The idea is to offer textual analysis and graphical content to present the results. We will include node graphs linking sources to one another and maps that will indicate the different characteristics of media coverage in different countries. 
 
 # Research questions
-A list of research questions you would like to address during the project. 
+- How differently is one event translated in local news depending on the country or the media? 
+
+- Which category of news tends to be less covered depending on the country or the media?
+
+- How do media can introduce bias while keeping their credibility as a source of information?
+
+- How can we use the graph visualization to demonstrate the bias in the news sources?
+
+- What conclusions can we draw from the media coverage among different countries?
+
+
 
 # Dataset
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
