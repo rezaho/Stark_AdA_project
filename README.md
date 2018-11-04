@@ -19,7 +19,9 @@ The idea is to offer textual analysis and graphical content to present the resul
 
 
 # Dataset
-List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
+The targeted dataset for this project is GDELT 2.0. Its exhaustive description of events around the globe provides tools to investigate the news coverage in different country. 
+All articles and citations comes with multiple indexes (confidence, tone, Goldstein scale) that provides great insights to get an idea of the polarity of the media or even the country.
+
 
 # A list of internal milestones up until project milestone 2
 Add here a sketch of your planning for the next project milestone.
