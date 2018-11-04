@@ -14,7 +14,7 @@ The idea is to offer textual analysis and graphical content to present the resul
 
 - How can we use the graph visualization to demonstrate the bias in the news sources?
 
-- What conclusions can we draw about one country by studying their media coverage?
+- What conclusions can we draw about one country by studying its media coverage?
 
 
 
